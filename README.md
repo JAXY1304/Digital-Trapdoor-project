@@ -208,6 +208,16 @@ The following diagram illustrates the implementation methodology of the Digital 
 
 ---
 
+---
+
+# 📄 Project Documents
+
+The following documents provide detailed information about the project implementation, methodology, and presentation.
+
+- 📘 **Project Report (PDF)**: [Digital-Trapdoor.pdf](Digital-Trapdoor.pdf)
+- 📊 **Project Presentation (PPT)**: [Digital-Trapdoor-Presentation.pptx](Digital-Trapdoor-Presentation.pptx)
+
+
 # 👨‍💻 Author
 
 **Jay Soni**
