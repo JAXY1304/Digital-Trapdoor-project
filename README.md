@@ -187,7 +187,15 @@ Firewall Blocks Attacker
 - Threat Simulation
 
 ---
+---
 
+# 📸 Project Methodology
+
+The following diagram illustrates the implementation methodology of the Digital Trapdoor framework.
+
+![Project Methodology](Methodology.png)
+
+--- 
 # 🚀 Future Scope
 
 - 🤖 AI-Based Threat Detection
